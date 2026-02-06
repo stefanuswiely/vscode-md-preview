@@ -7,11 +7,16 @@ body {
     line-height: 1.6;
 }
 
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 1em;
+}
+
 code, pre, tt, kbd {
     font-family: 'JetBrains Mono', monospace !important;
-    font-size: 0.9em;
 }
 
 pre code {
     font-family: 'JetBrains Mono', monospace !important;
 }
+
